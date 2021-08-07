@@ -1,4 +1,4 @@
-# Hello There! <img src="https://raw.githubusercontent.com/bbbpppolly/bbbpppolly/master/wave-hello.gif" width="30px">
+# Hello There! <img src="https://github.com/bbbpppolly/bbbpppolly/blob/4e8a32898ea24b17aa284b9f4e2ea16ba5d928e0/wave-hello.gif" width="30px">
 
 <!--
 **bbbpppolly/bbbpppolly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
