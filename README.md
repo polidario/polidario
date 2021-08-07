@@ -3,10 +3,9 @@
 <div align="center">
   <h3>Hello There! <img src="https://github.com/bbbpppolly/bbbpppolly/blob/main/wave-hello.gif" width="30px"><br />My name is Bernard Polidario<br />I'm a handsome Shopify Developer and nothing can stop me.</h3>
   
-  <!-- Icons -->
-
-  [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-  [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+  <a href="https://www.youtube.com/channel/UCUa4yMJ3mVquTL5TIpxatqQ/">
+    <img src="https://img.shields.io/badge/YouTube-f60456?style=for-the-badge&logo=YouTube&logoColor=white">
+  </a>
   
   <hr width="50%">
 </div>
