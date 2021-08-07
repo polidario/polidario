@@ -15,12 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbbpppolly&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bbbpppolly&hide=contribs,prs&show_icons=true&count_private=true)
-
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbbpppolly&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbbpppolly" />
 </a>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bbbpppolly&hide=contribs,prs&show_icons=true&count_private=true" />
