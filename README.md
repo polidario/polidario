@@ -2,6 +2,13 @@
 
 <div align="center">
   <h3>Hello There! <img src="https://github.com/bbbpppolly/bbbpppolly/blob/main/wave-hello.gif" width="30px"><br />My name is Bernard Polidario<br />I'm a handsome Shopify Developer and nothing can stop me.</h3>
+  
+  <!-- Icons -->
+
+  [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+  [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+  
+  <hr width="50%">
 </div>
 
 My name is Bernard and I'm the guy you see blabbing nonesense on <a href="https://www.youtube.com/channel/UCUa4yMJ3mVquTL5TIpxatqQ/">WeeklyHow's YouTube channel</a>. Currently, I'm working as a full-time Instructor at WeeklyHow though you can also say that I'm a full-time Udemy Instructor. So if you want to see me "perform", you can either watch me on YouTube or enroll to one of my courses.
