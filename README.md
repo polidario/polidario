@@ -7,6 +7,10 @@
     <img src="https://img.shields.io/badge/YouTube-f60456?style=for-the-badge&logo=YouTube&logoColor=white">
   </a>
   
+  <a href="https://www.youtube.com/channel/UCUa4yMJ3mVquTL5TIpxatqQ/">
+    <img src="https://img.shields.io/badge/Twitter-f60456?style=for-the-badge&logo=Twitter&logoColor=white">
+  </a>
+  
   <hr width="50%">
 </div>
 
