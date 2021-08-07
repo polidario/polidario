@@ -18,7 +18,7 @@
   <hr width="50%">
 </div>
 
-My name is Bernard and I'm the guy you see blabbing nonesense on <a href="https://www.youtube.com/channel/UCUa4yMJ3mVquTL5TIpxatqQ/">WeeklyHow's YouTube channel</a>. Currently, I'm working as a full-time Instructor at WeeklyHow though you can also say that I'm a full-time Udemy Instructor. So if you want to see me "perform", you can either watch me on YouTube or enroll to one of my courses.
+My name is Bernard and I'm the guy you see blabbing nonesense on <a href="https://www.youtube.com/channel/UCUa4yMJ3mVquTL5TIpxatqQ/">WeeklyHow's YouTube channel</a>. Currently, I'm working as a full-time Instructor at <a href="https://weeklyhow.com/">WeeklyHow</a> though you can also say that I'm a full-time Udemy Instructor. So if you want to see me "perform", you can either watch me on YouTube or enroll to one of <a href="https://weeklyhow.com/courses/">my courses</a>.
 
 
 
