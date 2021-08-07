@@ -1,5 +1,11 @@
 <img src="https://github.com/bbbpppolly/bbbpppolly/blob/main/GitHub%20Banner.png" width="100%">
 
+<center>
+  <h3>Hello There! </h3><br />
+  <h3>My name is Bernard Polidario</h3><br />
+  <h3>I'm a handsome Shopify Developer and nothing can stop me.</h3><br />
+</center>
+
 My name is Bernard and I'm the guy you see blabbing nonesense on <a href="https://www.youtube.com/channel/UCUa4yMJ3mVquTL5TIpxatqQ/">WeeklyHow's YouTube channel</a>. Currently, I'm working as a full-time Instructor at WeeklyHow though you can also say that I'm a full-time Udemy Instructor. So if you want to see me "perform", you can either watch me on YouTube or enroll to one of my courses.
 
 
