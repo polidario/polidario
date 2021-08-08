@@ -20,7 +20,25 @@
 
 My name is Bernard and I'm the guy you see blabbing nonesense on <a href="https://www.youtube.com/channel/UCUa4yMJ3mVquTL5TIpxatqQ/">WeeklyHow's YouTube channel</a>. Currently, I'm working as a full-time Instructor at <a href="https://weeklyhow.com/">WeeklyHow</a> though you can also say that I'm a full-time Udemy Instructor. So if you want to see me "perform", you can either watch me on YouTube or enroll to one of <a href="https://weeklyhow.com/courses/">my courses</a>.
 
+<div align="center">
+  <hr width="50%">
+</div>
 
+<h3>:hammer_and_wrench: Tech & tools that I use</h3>
+
+![](https://img.shields.io/badge/Windows-MacOS-informational?style=for-the-badge&logo=Windows&logoColor=0078D6&color=white)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=Visual-Studio-Code&logoColor=orange&color=007ACC)
+![](https://img.shields.io/badge/Shopify-Liquid-informational?style=for-the-badge&logo=Shopify&logoColor=green&color=green)
+![](https://img.shields.io/badge/Backend-PHP-informational?style=for-the-badge&logo=PHP&logoColor=878db8&color=878db8)
+![](https://img.shields.io/badge/Frontend-Javascript-informational?style=for-the-badge&logo=JavaScript&logoColor=yellow&color=yellow)
+
+<div align="center">
+  <hr width="50%">
+</div>
+
+<h3>:chart_with_upwards_trend: Stats that might interest you</h3>
+
+I didn't really care much about making commits or contributions before but starting now, I will start (better late than never. Am I right?). Also, you know what? This is actually really cool so here you go.
 
 <a href="#">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbbpppolly" />
