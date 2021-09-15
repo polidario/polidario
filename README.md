@@ -1,4 +1,4 @@
-<img src="https://github.com/bbbpppolly/bbbpppolly/blob/main/GitHub%20Banner.png" width="100%">
+<img src="https://github.com/bbbpppolly/bbbpppolly/blob/main/GitHub%20Banner%20A.png" width="100%">
 
 <div align="center">
   <h3>Hello There! <img src="https://github.com/bbbpppolly/bbbpppolly/blob/main/wave-hello.gif" width="30px"><br />My name is Bernard Polidario<br />I'm a handsome Shopify Developer and nothing can stop me.</h3>
