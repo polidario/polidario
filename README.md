@@ -1,13 +1,13 @@
-<img src="https://github.com/bbbpppolly/bbbpppolly/blob/main/GitHub%20Banner%20A.png" width="100%">
+<img src="https://github.com/polidario/polidario/blob/main/GitHub%20Banner%20A.png" width="100%">
 
 <div align="center">
-  <h3>Hello There! <img src="https://github.com/bbbpppolly/bbbpppolly/blob/main/wave-hello.gif" width="30px"><br />My name is Bernard Polidario<br />Welcome to my profile!</h3>
+  <h3>Hello There! <img src="https://github.com/polidario/polidario/blob/main/wave-hello.gif" width="30px"><br />My name is Bernard Polidario<br />Welcome to my profile!</h3>
   
   <a href="https://www.youtube.com/channel/UCUa4yMJ3mVquTL5TIpxatqQ/">
     <img src="https://img.shields.io/badge/YouTube-f60456?style=for-the-badge&logo=YouTube&logoColor=white">
   </a>
   
-  <a href="https://twitter.com/HowWeekly">
+  <a href="https://twitter.com/weeklyhow">
     <img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=Twitter&logoColor=white">
   </a>
   
@@ -41,8 +41,8 @@ My name is Bernard and I do make tutorials about Shopify (mostly) or coding on <
 I didn't really care much about making commits or contributions before but starting now, I will start (better late than never. Am I right?). Also, you know what? This is actually really cool so here you go.
 
 <a href="#">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbbpppolly" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polidario" />
 </a>
 <a href="#">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=bbbpppolly&hide=contribs,prs&show_icons=true&count_private=true" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=polidario&hide=contribs,prs&show_icons=true&count_private=true" />
 </a>
