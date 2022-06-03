@@ -1,7 +1,7 @@
 <img src="https://github.com/polidario/polidario/blob/main/GitHub%20Banner%20A.png" width="100%">
 
 <div align="center">
-  <h3>Hello There! <img src="https://github.com/polidario/polidario/blob/main/wave-hello.gif" width="30px"><br />My name is Bernard Polidario<br />Welcome to my profile!</h3>
+  <h3>Hello There!<br />My name is Bernard Polidario<br />Welcome to my profile!</h3>
   
   <a href="https://www.youtube.com/channel/UCUa4yMJ3mVquTL5TIpxatqQ/">
     <img src="https://img.shields.io/badge/YouTube-f60456?style=for-the-badge&logo=YouTube&logoColor=white">
