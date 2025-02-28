@@ -22,8 +22,6 @@
 	<hr  width="50%">
 </div>
 
-  
-
 <h3>:hammer_and_wrench: Tech & tools that I use</h3>
 
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=Visual-Studio-Code&logoColor=orange&color=007ACC)
@@ -34,18 +32,15 @@
 
 ![](https://img.shields.io/badge/Frontend-Javascript-informational?style=for-the-badge&logo=JavaScript&logoColor=yellow&color=yellow)
 
-  
-
 <div  align="center">
 	<hr  width="50%">
 </div>
 
 <h3>:chart_with_upwards_trend: Check this out! Cool KPIs</h3>
 
-<a  href="#">
-	<img  align="top"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=polidario"  />
+<a href="https://github-readme-stats.vercel.app/api?username=polidario" target="_blank">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=polidario" />
 </a>
-
-<a  href="#">
-	<img  align="top"  src="https://github-readme-stats.vercel.app/api?username=polidario&hide=contribs,prs&show_icons=true&count_private=true"  />
+<a href="https://github-readme-stats.vercel.app/api/top-langs?username=polidario&layout=compact&langs_count=8&card_width=320" target="_blank">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=polidario&layout=compact&langs_count=8&card_width=320" />
 </a>
