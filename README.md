@@ -24,6 +24,7 @@
 
 <h3>:hammer_and_wrench: Tech & tools that I use</h3>
 
+<div align="center">
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=Visual-Studio-Code&logoColor=orange&color=007ACC)
 
 ![](https://img.shields.io/badge/Shopify-Liquid-informational?style=for-the-badge&logo=Shopify&logoColor=green&color=green)
@@ -31,6 +32,7 @@
 ![](https://img.shields.io/badge/Backend-PHP-informational?style=for-the-badge&logo=PHP&logoColor=878db8&color=878db8)
 
 ![](https://img.shields.io/badge/Frontend-Javascript-informational?style=for-the-badge&logo=JavaScript&logoColor=yellow&color=yellow)
+</div>
 
 <div  align="center">
 	<hr  width="50%">
