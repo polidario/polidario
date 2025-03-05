@@ -47,3 +47,6 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs?username=polidario&layout=compact&langs_count=8&card_width=320" target="_blank">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=polidario&layout=compact&langs_count=8&card_width=320" />
 </a>
+<a href="https://github-readme-stats.vercel.app/api/wakatime?username=polidario&layout=compact&card_width=1024&custom_title=My%20time%20spent%20on%20tech" target="_blank">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=polidario&layout=compact&card_width=1024&custom_title=My%20time%20spent%20on%20tech" />
+</a>
